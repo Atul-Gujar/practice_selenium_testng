@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-06T16:00:54 IST" name="Sanity" finished-at="2025-09-06T16:03:16 IST" duration-ms="142165">
+    <groups>
+    </groups>
+    <test started-at="2025-09-06T16:00:54 IST" name="Test2" finished-at="2025-09-06T16:01:32 IST" duration-ms="37852">
+      <class name="testCases.TC001_Text_Box_Handling">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC001_Text_Box_Handling@44a59da3]" started-at="2025-09-06T16:00:54 IST" name="setup" finished-at="2025-09-06T16:01:31 IST" duration-ms="36665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="text_box_handling()[pri:0, instance:testCases.TC001_Text_Box_Handling@44a59da3]" started-at="2025-09-06T16:01:31 IST" name="text_box_handling" finished-at="2025-09-06T16:01:32 IST" duration-ms="886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- text_box_handling -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_Text_Box_Handling@44a59da3]" started-at="2025-09-06T16:01:32 IST" name="tearDown" finished-at="2025-09-06T16:01:32 IST" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC001_Text_Box_Handling -->
+    </test> <!-- Test2 -->
+    <test started-at="2025-09-06T16:00:54 IST" name="Test3" finished-at="2025-09-06T16:01:49 IST" duration-ms="54625">
+      <class name="testCases.TC001_Text_Box_Handling">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC001_Text_Box_Handling@6f6745d6]" started-at="2025-09-06T16:00:54 IST" name="setup" finished-at="2025-09-06T16:01:48 IST" duration-ms="53577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="text_box_handling()[pri:0, instance:testCases.TC001_Text_Box_Handling@6f6745d6]" started-at="2025-09-06T16:01:48 IST" name="text_box_handling" finished-at="2025-09-06T16:01:48 IST" duration-ms="682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- text_box_handling -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_Text_Box_Handling@6f6745d6]" started-at="2025-09-06T16:01:48 IST" name="tearDown" finished-at="2025-09-06T16:01:49 IST" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC001_Text_Box_Handling -->
+    </test> <!-- Test3 -->
+    <test started-at="2025-09-06T16:00:54 IST" name="Test1" finished-at="2025-09-06T16:03:16 IST" duration-ms="142165">
+      <class name="testCases.TC001_Text_Box_Handling">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC001_Text_Box_Handling@4e928fbf]" started-at="2025-09-06T16:00:54 IST" name="setup" finished-at="2025-09-06T16:01:51 IST" duration-ms="57033" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="text_box_handling()[pri:0, instance:testCases.TC001_Text_Box_Handling@4e928fbf]" started-at="2025-09-06T16:01:51 IST" name="text_box_handling" finished-at="2025-09-06T16:01:52 IST" duration-ms="1041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- text_box_handling -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_Text_Box_Handling@4e928fbf]" started-at="2025-09-06T16:01:52 IST" name="tearDown" finished-at="2025-09-06T16:01:53 IST" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC001_Text_Box_Handling -->
+      <class name="testCases.TC002_Data_Driven_Test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC002_Data_Driven_Test@295cf707]" started-at="2025-09-06T16:01:53 IST" name="setup" finished-at="2025-09-06T16:02:24 IST" duration-ms="31900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="register_test2(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_Data_Driven_Test@295cf707]" started-at="2025-09-06T16:02:27 IST" name="register_test2" data-provider="register_data2" finished-at="2025-09-06T16:02:55 IST" duration-ms="28646" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcd1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcd1@abc.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Satara]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Satara]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register_test2 -->
+        <test-method signature="register_test2(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_Data_Driven_Test@295cf707]" started-at="2025-09-06T16:02:55 IST" name="register_test2" data-provider="register_data2" finished-at="2025-09-06T16:03:00 IST" duration-ms="4822" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcd2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcd2@abc.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Satara]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Satara]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register_test2 -->
+        <test-method signature="register_test2(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_Data_Driven_Test@295cf707]" started-at="2025-09-06T16:03:00 IST" name="register_test2" data-provider="register_data2" finished-at="2025-09-06T16:03:05 IST" duration-ms="4969" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcd3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcd3@abc.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Satara]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Satara]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register_test2 -->
+        <test-method signature="register_test2(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_Data_Driven_Test@295cf707]" started-at="2025-09-06T16:03:05 IST" name="register_test2" data-provider="register_data2" finished-at="2025-09-06T16:03:11 IST" duration-ms="6297" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcd4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcd4@abc.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Satara]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Satara]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register_test2 -->
+        <test-method signature="register_test2(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_Data_Driven_Test@295cf707]" started-at="2025-09-06T16:03:11 IST" name="register_test2" data-provider="register_data2" finished-at="2025-09-06T16:03:16 IST" duration-ms="4680" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcd5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcd5@abc.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Satara]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Satara]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register_test2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_Data_Driven_Test@295cf707]" started-at="2025-09-06T16:03:16 IST" name="tearDown" finished-at="2025-09-06T16:03:16 IST" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC002_Data_Driven_Test -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Sanity -->
+</testng-results>
