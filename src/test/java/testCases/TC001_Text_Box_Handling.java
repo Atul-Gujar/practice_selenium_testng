@@ -13,6 +13,7 @@ public class TC001_Text_Box_Handling extends BaseClass
 	 @Test
 	 public void text_box_handling()
 	 {
+		 logger.info("Test started");
 		 text_box_page_object = new TextBoxPageObjects(driver);
 		 text_box_page_object.click_text_box_link();
 		 text_box_page_object.enter_username("abcd");
@@ -22,5 +23,6 @@ public class TC001_Text_Box_Handling extends BaseClass
 		 text_box_page_object.click_submit();
 		 String registered_name = text_box_page_object.return_name();
 		 Assert.assertEquals(registered_name,"abcd");
+		 logger.info("Test completed");
 	 }
 }

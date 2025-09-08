@@ -75,3 +75,150 @@
 16:16:44.555 [TestNG-tests-1] INFO  testCases.TC002_Data_Driven_Test - Test completed
 16:16:44.557 [TestNG-tests-1] INFO  testCases.TC002_Data_Driven_Test - Test started
 16:16:52.588 [TestNG-tests-1] INFO  testCases.TC002_Data_Driven_Test - Test completed
+15:46:49.453 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java Programs\Practice_6_Sept\testng.xml"
+15:49:09.300 [TestNG-tests-1] INFO  testCases.TC001_Text_Box_Handling - Test started
+15:53:21.860 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java Programs\Practice_6_Sept\testng.xml"
+15:53:22.135 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Java Programs\Practice_6_Sept\testng.xml
+
+15:54:27.769 [TestNG-tests-2] INFO  testCases.TC001_Text_Box_Handling - Test started
+15:54:28.500 [TestNG-tests-2] INFO  testCases.TC001_Text_Box_Handling - Test completed
+15:54:56.438 [TestNG-tests-1] INFO  testCases.TC001_Text_Box_Handling - Test started
+15:54:57.194 [TestNG-tests-1] INFO  testCases.TC001_Text_Box_Handling - Test completed
+15:55:12.872 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:55:12.878 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:55:12.884 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:55:13.588 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:55:13.591 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:55:13.591 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:55:13.627 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:55:13.628 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:55:13.628 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:55:13.682 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:55:13.685 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:55:13.686 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:55:13.732 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:55:13.735 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:55:13.735 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:55:13.772 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:55:13.772 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:55:13.774 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:55:13.821 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:55:13.821 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:55:13.821 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:55:13.860 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:55:13.860 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:55:13.871 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:55:13.909 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:55:13.909 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:55:13.918 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:55:13.963 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:55:13.967 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:55:13.969 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:55:14.017 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:55:14.020 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:55:14.020 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:55:14.057 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:55:14.058 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:55:14.059 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:55:14.095 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:55:14.095 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:55:14.100 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:55:14.122 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:55:14.122 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:55:14.124 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:55:14.149 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:55:14.149 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:55:14.149 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:55:14.175 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:55:14.175 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:55:14.175 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:55:14.199 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:55:14.199 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:55:14.199 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:55:14.222 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:55:14.224 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:55:14.224 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:55:14.244 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:55:14.244 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:55:14.248 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:55:14.273 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:55:14.273 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:55:14.273 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:55:14.289 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:55:14.294 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:55:14.294 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:55:14.314 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:55:14.316 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:55:14.319 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+15:55:14.363 [TestNG-tests-1] INFO  testCases.TC002_Data_Driven_Test - Test started
+15:56:06.200 [TestNG-tests-3] INFO  testCases.TC001_Text_Box_Handling - Test started
+15:56:07.154 [TestNG-tests-3] INFO  testCases.TC001_Text_Box_Handling - Test completed
+15:56:32.453 [TestNG-tests-1] INFO  testCases.TC002_Data_Driven_Test - Test completed
+15:56:32.464 [TestNG-tests-1] INFO  testCases.TC002_Data_Driven_Test - Test started
+16:02:08.439 [TestNG-tests-1] INFO  testCases.TC002_Data_Driven_Test - Test completed
+16:02:08.476 [TestNG-tests-1] INFO  testCases.TC002_Data_Driven_Test - Test started
+16:21:50.086 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java Programs\Practice_6_Sept\testng.xml"
+16:21:50.350 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Java Programs\Practice_6_Sept\testng.xml
+
+16:24:19.136 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java Programs\Practice_6_Sept\testng.xml"
+16:24:19.406 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Java Programs\Practice_6_Sept\testng.xml
+
+16:25:31.959 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java Programs\Practice_6_Sept\testng.xml"
+16:25:32.232 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Java Programs\Practice_6_Sept\testng.xml
+
+16:26:50.049 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java Programs\Practice_6_Sept\testng.xml"
+16:26:50.264 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Java Programs\Practice_6_Sept\testng.xml
+
+16:31:00.001 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java Programs\Practice_6_Sept\testng.xml"
+16:31:00.267 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Java Programs\Practice_6_Sept\testng.xml
+
+16:31:06.127 [TestNG-tests-3] INFO  testCases.TC001_Text_Box_Handling - Test started
+16:31:06.558 [TestNG-tests-2] INFO  testCases.TC001_Text_Box_Handling - Test started
+16:31:52.617 [TestNG-tests-1] INFO  testCases.TC001_Text_Box_Handling - Test started
+16:31:53.455 [TestNG-tests-1] INFO  testCases.TC001_Text_Box_Handling - Test completed
+16:31:56.700 [TestNG-tests-2] INFO  testCases.TC001_Text_Box_Handling - Test completed
+16:32:56.018 [TestNG-tests-3] INFO  testCases.TC001_Text_Box_Handling - Test completed
+16:33:29.859 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java Programs\Practice_6_Sept\testng.xml"
+16:33:30.146 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Java Programs\Practice_6_Sept\testng.xml
+
+16:33:59.455 [TestNG-tests-3] INFO  testCases.TC001_Text_Box_Handling - Test started
+16:35:20.552 [TestNG-tests-2] INFO  testCases.TC001_Text_Box_Handling - Test started
+16:35:21.404 [TestNG-tests-2] INFO  testCases.TC001_Text_Box_Handling - Test completed
+16:35:26.119 [TestNG-tests-3] INFO  testCases.TC001_Text_Box_Handling - Test completed
+16:54:15.813 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java Programs\Practice_6_Sept\testng.xml"
+16:54:16.035 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Java Programs\Practice_6_Sept\testng.xml
+
+16:56:27.635 [TestNG-tests-3] INFO  testCases.TC001_Text_Box_Handling - Test started
+16:56:29.069 [TestNG-tests-1] INFO  testCases.TC001_Text_Box_Handling - Test started
+16:56:31.769 [TestNG-tests-2] INFO  testCases.TC001_Text_Box_Handling - Test started
+16:57:29.716 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java Programs\Practice_6_Sept\testng.xml"
+16:58:00.578 [TestNG-tests-3] INFO  testCases.TC001_Text_Box_Handling - Test started
+16:58:03.893 [TestNG-tests-1] INFO  testCases.TC001_Text_Box_Handling - Test started
+16:58:07.576 [TestNG-tests-2] INFO  testCases.TC001_Text_Box_Handling - Test started
+17:27:39.681 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java Programs\Practice_6_Sept\testng.xml"
+17:27:40.014 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Java Programs\Practice_6_Sept\testng.xml
+
+17:29:17.330 [TestNG-tests-3] INFO  testCases.TC001_Text_Box_Handling - Test started
+17:29:18.276 [TestNG-tests-3] INFO  testCases.TC001_Text_Box_Handling - Test completed
+17:34:35.158 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java Programs\Practice_6_Sept\testng.xml"
+17:35:33.294 [TestNG-tests-1] INFO  testCases.TC001_Text_Box_Handling - Test started
+17:35:34.167 [TestNG-tests-1] INFO  testCases.TC001_Text_Box_Handling - Test completed
+17:35:35.909 [TestNG-tests-2] INFO  testCases.TC001_Text_Box_Handling - Test started
+17:35:36.825 [TestNG-tests-2] INFO  testCases.TC001_Text_Box_Handling - Test completed
+17:46:35.312 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java Programs\Practice_6_Sept\testng.xml"
+17:46:35.502 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Java Programs\Practice_6_Sept\testng.xml
+
+17:48:06.491 [TestNG-tests-1] INFO  testCases.TC001_Text_Box_Handling - Test started
+17:48:07.261 [TestNG-tests-1] INFO  testCases.TC001_Text_Box_Handling - Test completed
+17:48:10.864 [TestNG-tests-2] INFO  testCases.TC001_Text_Box_Handling - Test started
+17:48:11.816 [TestNG-tests-2] INFO  testCases.TC001_Text_Box_Handling - Test completed

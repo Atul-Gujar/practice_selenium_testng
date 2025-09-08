@@ -1,197 +1,203 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+<testng-results ignored="0" total="3" passed="2" failed="0" skipped="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-09-06T16:11:24 IST" name="Sanity" finished-at="2025-09-06T16:16:52 IST" duration-ms="328030">
+  <suite started-at="2025-09-08T17:34:35 IST" name="Sanity" finished-at="2025-09-08T17:37:36 IST" duration-ms="180769">
     <groups>
     </groups>
-    <test started-at="2025-09-06T16:11:24 IST" name="Test3" finished-at="2025-09-06T16:13:07 IST" duration-ms="103016">
+    <test started-at="2025-09-08T17:34:35 IST" name="Test1" finished-at="2025-09-08T17:35:34 IST" duration-ms="58944">
       <class name="testCases.TC001_Text_Box_Handling">
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC001_Text_Box_Handling@76f4b65]" started-at="2025-09-06T16:11:24 IST" name="setup" finished-at="2025-09-06T16:13:06 IST" duration-ms="101768" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_Text_Box_Handling@1c93f6e1]" started-at="2025-09-08T17:34:35 IST" name="setup" finished-at="2025-09-08T17:35:33 IST" duration-ms="57666" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[linux]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="text_box_handling()[pri:0, instance:testCases.TC001_Text_Box_Handling@76f4b65]" started-at="2025-09-06T16:13:06 IST" name="text_box_handling" finished-at="2025-09-06T16:13:07 IST" duration-ms="853" status="PASS">
+        <test-method signature="text_box_handling()[pri:0, instance:testCases.TC001_Text_Box_Handling@1c93f6e1]" started-at="2025-09-08T17:35:33 IST" name="text_box_handling" finished-at="2025-09-08T17:35:34 IST" duration-ms="879" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- text_box_handling -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_Text_Box_Handling@76f4b65]" started-at="2025-09-06T16:13:07 IST" name="tearDown" finished-at="2025-09-06T16:13:07 IST" duration-ms="185" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_Text_Box_Handling@1c93f6e1]" started-at="2025-09-08T17:35:34 IST" name="tearDown" finished-at="2025-09-08T17:35:34 IST" duration-ms="159" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.TC001_Text_Box_Handling -->
-    </test> <!-- Test3 -->
-    <test started-at="2025-09-06T16:11:24 IST" name="Test2" finished-at="2025-09-06T16:13:14 IST" duration-ms="109330">
+    </test> <!-- Test1 -->
+    <test started-at="2025-09-08T17:34:35 IST" name="Test2" finished-at="2025-09-08T17:35:37 IST" duration-ms="62589">
       <class name="testCases.TC001_Text_Box_Handling">
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC001_Text_Box_Handling@22f31dec]" started-at="2025-09-06T16:11:24 IST" name="setup" finished-at="2025-09-06T16:13:13 IST" duration-ms="108186" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_Text_Box_Handling@38234a38]" started-at="2025-09-08T17:34:35 IST" name="setup" finished-at="2025-09-08T17:35:35 IST" duration-ms="60300" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[linux]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="text_box_handling()[pri:0, instance:testCases.TC001_Text_Box_Handling@22f31dec]" started-at="2025-09-06T16:13:13 IST" name="text_box_handling" finished-at="2025-09-06T16:13:13 IST" duration-ms="892" status="PASS">
+        <test-method signature="text_box_handling()[pri:0, instance:testCases.TC001_Text_Box_Handling@38234a38]" started-at="2025-09-08T17:35:35 IST" name="text_box_handling" finished-at="2025-09-08T17:35:36 IST" duration-ms="917" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- text_box_handling -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_Text_Box_Handling@22f31dec]" started-at="2025-09-06T16:13:13 IST" name="tearDown" finished-at="2025-09-06T16:13:14 IST" duration-ms="177" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_Text_Box_Handling@38234a38]" started-at="2025-09-08T17:35:36 IST" name="tearDown" finished-at="2025-09-08T17:35:37 IST" duration-ms="1162" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.TC001_Text_Box_Handling -->
     </test> <!-- Test2 -->
-    <test started-at="2025-09-06T16:11:24 IST" name="Test1" finished-at="2025-09-06T16:16:52 IST" duration-ms="328030">
+    <test started-at="2025-09-08T17:34:35 IST" name="Test3" finished-at="2025-09-08T17:37:36 IST" duration-ms="180769">
       <class name="testCases.TC001_Text_Box_Handling">
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC001_Text_Box_Handling@7a362b6b]" started-at="2025-09-06T16:11:24 IST" name="setup" finished-at="2025-09-06T16:13:46 IST" duration-ms="141644" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC001_Text_Box_Handling@602e0143]" started-at="2025-09-08T17:34:35 IST" name="setup" finished-at="2025-09-08T17:37:36 IST" duration-ms="180540" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[linux]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.SessionNotCreatedException">
+            <message>
+              <![CDATA[Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'NEO', ip: '192.168.190.1']]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'NEO', ip: '192.168.190.1'
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:536)
+at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:232)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:161)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:141)
+at base.BaseClass.setup(BaseClass.java:75)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: org.openqa.selenium.TimeoutException: java.util.concurrent.TimeoutException
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: driver.version: RemoteWebDriver
+at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:399)
+at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42)
+at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55)
+at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute(JdkHttpClient.java:355)
+at org.openqa.selenium.remote.tracing.TracedHttpClient.execute(TracedHttpClient.java:54)
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:89)
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:75)
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:61)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:162)
+at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:51)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+... 22 more
+Caused by: java.util.concurrent.TimeoutException
+at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:382)
+... 32 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.SessionNotCreatedException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="text_box_handling()[pri:0, instance:testCases.TC001_Text_Box_Handling@7a362b6b]" started-at="2025-09-06T16:13:46 IST" name="text_box_handling" finished-at="2025-09-06T16:13:47 IST" duration-ms="1445" status="PASS">
+        <test-method signature="text_box_handling()[pri:0, instance:testCases.TC001_Text_Box_Handling@602e0143]" started-at="2025-09-08T17:37:36 IST" name="text_box_handling" finished-at="2025-09-08T17:37:36 IST" duration-ms="1" status="SKIP">
+          <exception class="org.openqa.selenium.SessionNotCreatedException">
+            <message>
+              <![CDATA[Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'NEO', ip: '192.168.190.1']]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.SessionNotCreatedException: Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'NEO', ip: '192.168.190.1'
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:536)
+at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:232)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:161)
+at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:141)
+at base.BaseClass.setup(BaseClass.java:75)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.internal.invokers.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:188)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: org.openqa.selenium.TimeoutException: java.util.concurrent.TimeoutException
+Build info: version: '4.21.0', revision: '79ed462ef4'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21'
+Driver info: driver.version: RemoteWebDriver
+at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:399)
+at org.openqa.selenium.remote.http.AddSeleniumUserAgent.lambda$apply$0(AddSeleniumUserAgent.java:42)
+at org.openqa.selenium.remote.http.Filter.lambda$andFinally$1(Filter.java:55)
+at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute(JdkHttpClient.java:355)
+at org.openqa.selenium.remote.tracing.TracedHttpClient.execute(TracedHttpClient.java:54)
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:89)
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:75)
+at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:61)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:162)
+at org.openqa.selenium.remote.TracedCommandExecutor.execute(TracedCommandExecutor.java:51)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+... 22 more
+Caused by: java.util.concurrent.TimeoutException
+at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1960)
+at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2095)
+at org.openqa.selenium.remote.http.jdk.JdkHttpClient.execute0(JdkHttpClient.java:382)
+... 32 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.SessionNotCreatedException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- text_box_handling -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_Text_Box_Handling@7a362b6b]" started-at="2025-09-06T16:13:47 IST" name="tearDown" finished-at="2025-09-06T16:13:48 IST" duration-ms="166" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001_Text_Box_Handling@602e0143]" started-at="2025-09-08T17:37:36 IST" name="tearDown" finished-at="2025-09-08T17:37:36 IST" duration-ms="0" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.TC001_Text_Box_Handling -->
-      <class name="testCases.TC002_Data_Driven_Test">
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCases.TC002_Data_Driven_Test@632ceb35]" started-at="2025-09-06T16:13:48 IST" name="setup" finished-at="2025-09-06T16:14:26 IST" duration-ms="38230" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="register_test2(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_Data_Driven_Test@632ceb35]" started-at="2025-09-06T16:14:28 IST" name="register_test2" data-provider="register_data2" finished-at="2025-09-06T16:14:55 IST" duration-ms="27212" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[abcd1]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[abcd1@abc.com]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Satara]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[Satara]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- register_test2 -->
-        <test-method signature="register_test2(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_Data_Driven_Test@632ceb35]" started-at="2025-09-06T16:14:55 IST" name="register_test2" data-provider="register_data2" finished-at="2025-09-06T16:15:47 IST" duration-ms="52576" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[abcd2]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[abcd2@abc.com]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Satara]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[Satara]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- register_test2 -->
-        <test-method signature="register_test2(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_Data_Driven_Test@632ceb35]" started-at="2025-09-06T16:15:47 IST" name="register_test2" data-provider="register_data2" finished-at="2025-09-06T16:16:11 IST" duration-ms="23874" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[abcd3]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[abcd3@abc.com]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Satara]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[Satara]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- register_test2 -->
-        <test-method signature="register_test2(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_Data_Driven_Test@632ceb35]" started-at="2025-09-06T16:16:11 IST" name="register_test2" data-provider="register_data2" finished-at="2025-09-06T16:16:44 IST" duration-ms="32867" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[abcd4]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[abcd4@abc.com]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Satara]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[Satara]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- register_test2 -->
-        <test-method signature="register_test2(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testCases.TC002_Data_Driven_Test@632ceb35]" started-at="2025-09-06T16:16:44 IST" name="register_test2" data-provider="register_data2" finished-at="2025-09-06T16:16:52 IST" duration-ms="8033" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[abcd5]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[abcd5@abc.com]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Satara]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[Satara]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- register_test2 -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_Data_Driven_Test@632ceb35]" started-at="2025-09-06T16:16:52 IST" name="tearDown" finished-at="2025-09-06T16:16:52 IST" duration-ms="194" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- testCases.TC002_Data_Driven_Test -->
-    </test> <!-- Test1 -->
+    </test> <!-- Test3 -->
   </suite> <!-- Sanity -->
 </testng-results>
